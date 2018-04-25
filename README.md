@@ -17,7 +17,8 @@
 | Tool                 	| Role		    |
 | :---                 	| :---         	|
 | Figma	   				| Main Design Tool |
-| Google doc   			| Main Report Tool |
+| Wireframe.cc 			| Tool used for wireframe design |
+| Google doc   			| Tool used for collaborating document |
 | Trello				| Tool used for task assignment and scheduling |
 | WhatsApp	   			| Tool used for group discussion |
 | Slack	   				| Tool used for discussing with client  |

@@ -4,12 +4,12 @@
 
 | Name                 	| Role		    | Contribution |
 | :---                 	| :---         	| :---         |
-| Gautami Khandekar	   	| Member |   |
-| Gang Zhang		   	| Member | 	 |
-| Akanksha Singh	   	| Member |   |
-| Na Wen				| Member | 	 |
-| Shikhar Sharma   		| Member | 	 |
-| Xiangqing Ding		| Member | 	 |
+| Gautami Khandekar	   	| Member |  All Involvement |
+| Gang Zhang		   	| Member | 	All Involvement |
+| Akanksha Singh	   	| Member |  All Involvement |
+| Na Wen				| Member | 	All Involvement |
+| Shikhar Sharma   		| Member | 	All Involvement |
+| Xiangqing Ding		| Member | 	All Involvement |
 
 
 ## Tools ##
@@ -25,9 +25,17 @@
 
 ## Task Distribution ##
 
-The prototypes are divided into 3 sections based on our design: Main pages(Log in and Account), Community, and Map. Each two group members are assigned with on one of the section according to their preference.
+The prototypes are divided into 3 sections based on our design: Main pages(Log in and Account), Community, and Map. Each two group members are assigned with on one of the section according to their preference. In addition, everyone could join others' section if they think there is something to improve.
 
 ## Prototypes ##
+
+## Problem ##
+
+As we built the prototypes, we found several problems:
+
++ The biggest problem is that, it is hard to present work flow of the prototype using Figma. Need extra time to explain how the design work to our clients.
++ Hard to add some basic UI element (like Checkboxes, Toggles) in Figma. As a result, the design cannot fully present some of our thought.
++ All team members collaborating on the same stage of the project and no branch function in Figma, making it hard to compare different ideas.
 
 
 ## References ##

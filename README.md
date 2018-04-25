@@ -16,9 +16,11 @@
 
 | Tool                 	| Role		    |
 | :---                 	| :---         	|
-| Figma	   	| Member |
-| Figma	   	| Member |
-| Figma	   	| Member |
+| Figma	   				| Main Design Tool |
+| Google doc   			| Main Report Tool |
+| Trello				| Tool used for task assignment and scheduling |
+| WhatsApp	   			| Tool used for group discussion |
+| Slack	   				| Tool used for discussing with client  |
 
 
 ## Pages ##

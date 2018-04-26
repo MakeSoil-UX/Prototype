@@ -32,17 +32,39 @@ The prototypes are divided into 3 sections based on our design: Main pages(Log i
 ### Pages ###
 
 
+#### Main ####
+
+![](./pages/mains.png)
+
+#### Account ####
+
+![](./pages/accounts.png)
+
+#### Menu ####
+
+![](./pages/menus.png)
+
+#### Map ####
+
+![](./pages/maps.png)
+
+#### Community ####
+
+![](./pages/communities.png)
+
 ### Workflow ###
+
+The whole prototype starts from the Main page. The arrow in the image usually starts with a button and ends with a new page, which shows how pages are linked.
 
 ![](./workflow.png)
 
-### URL ###
+### Working URL ###
 
 [https://www.figma.com/proto/WQrw6jg5ppeUr4oJ3YXsfUjj/Phone](https://www.figma.com/proto/WQrw6jg5ppeUr4oJ3YXsfUjj/Phone)
 
 ## Problem ##
 
-As we built the prototypes, we found several problems, as shown below:
+As we built the prototypes, we found several problems, as listed below:
 
 + The biggest problem is that, it is hard to present work flow of the prototype using Figma. Extra time is needed to explain how the design work to our clients.
 + Hard to add some basic UI element (like Checkboxes, Toggles) in Figma. As a result, the design cannot fully present some of our thought.

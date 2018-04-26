@@ -29,11 +29,22 @@ The prototypes are divided into 3 sections based on our design: Main pages(Log i
 
 ## Prototypes ##
 
+### Pages ###
+
+
+
+### Workflow ###
+
+
+### URL ###
+
+[https://www.figma.com/proto/WQrw6jg5ppeUr4oJ3YXsfUjj/Phone](https://www.figma.com/proto/WQrw6jg5ppeUr4oJ3YXsfUjj/Phone)
+
 ## Problem ##
 
-As we built the prototypes, we found several problems:
+As we built the prototypes, we found several problems, as shown below:
 
-+ The biggest problem is that, it is hard to present work flow of the prototype using Figma. Need extra time to explain how the design work to our clients.
++ The biggest problem is that, it is hard to present work flow of the prototype using Figma. Extra time is needed to explain how the design work to our clients.
 + Hard to add some basic UI element (like Checkboxes, Toggles) in Figma. As a result, the design cannot fully present some of our thought.
 + All team members collaborating on the same stage of the project and no branch function in Figma, making it hard to compare different ideas.
 

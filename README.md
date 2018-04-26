@@ -25,7 +25,7 @@
 
 ## Task Distribution ##
 
-The prototypes are divided into 3 sections based on our design: Main pages(Log in and Account), Community, and Map. Each two group members are assigned with on one of the section according to their preference. In addition, everyone could join others' section if they think there is something to improve.
+The prototypes are divided into three parts based on our design: Main pages(Log in and Account), Community, and Map. Each two group members are assigned with on one part according to their preference. In addition, everyone could modify others' section if they think there is something to improve.
 
 ## Prototypes ##
 
@@ -36,38 +36,38 @@ The prototypes are divided into 3 sections based on our design: Main pages(Log i
 
 Main pages are pages about registration and logging in. When users open the application, they could choose to sign in, sign up, or try the application without logging in. In addition, as most applications, users could choose to retrieve their password if they forget it.   
 
-![](./pages/mains.png)
+![](./Pages/mains.png)
 
 #### Menu ####
 
 After logging in, users could open menu by clicking the button on upper-left corner of the screen. There are also sub-sections of "Community" and "Make Soil"
 
-![](./pages/menus.png)
+![](./Pages/menus.png)
 
 #### Account Pages ####
 
 By clicking the Account option in the menu, users could go to the account page and review their profile. In addition, users could reset their password or see the badges the get by clicking corresponding buttons. 
 
-![](./pages/accounts.png)
+![](./Pages/accounts.png)
 
 #### Map ####
 
 Map pages are the main interfaces of the application. Based on that, users could find soil maker and support them. The point on Map is not accurate location of soil maker for the consideration of privacy. User could see detail of the pile by clicking the point on the Map. Also, users could also navigate to the places they want. 
 
-![](./pages/maps.png)
+![](./Pages/maps.png)
 
 
 #### Chatting ####
 
 Users could chat with each other, making friends and accepting request.
 
-![](./pages/chats.png)
+![](./Pages/chats.png)
 
 #### Community ####
 
 In Community pages, user could read, comment, like and forward posts from all users. Also, they can post their own experience. In the posting, they could inset pictures, videos and links.
 
-![](./pages/communities.png)
+![](./Pages/communities.png)
 
 ### Workflow ###
 

@@ -32,9 +32,9 @@ The prototypes are divided into 3 sections based on our design: Main pages(Log i
 ### Pages ###
 
 
-
 ### Workflow ###
 
+![](./workflow.png)
 
 ### URL ###
 

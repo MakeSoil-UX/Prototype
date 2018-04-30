@@ -4,12 +4,12 @@
 
 | Name                 	| Role		    | Contribution |
 | :---                 	| :---         	| :---         |
-| Gautami Khandekar	   	| Member |  All Involved |
-| Gang Zhang		   	| Member | 	All Involved |
-| Akanksha Singh	   	| Member |  All Involved |
-| Na Wen				| Member | 	All Involved |
-| Shikhar Sharma   		| Member | 	All Involved |
-| Xiangqing Ding		| Member | 	All Involved |
+| Gautami Khandekar	   	| Member 		|  All Involved |
+| Gang Zhang		   	| Member 		| 	All Involved |
+| Akanksha Singh	   	| Facilitator 	|  All Involved |
+| Na Wen				| Member 		| 	All Involved |
+| Shikhar Sharma   		| Member 		| 	All Involved |
+| Xiangqing Ding		| Member 		| 	All Involved |
 
 
 ## Tools ##
